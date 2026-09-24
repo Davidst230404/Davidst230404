@@ -92,25 +92,85 @@ Currently Learning  : DevOps, CI/CD, System Architecture
 
 ---
 
-## Technology Stack
+## 🛠️ Technology Stack
 
 <div align="center">
 
-### Backend
+### 🔵 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js" alt="Backend Technologies">
+<p>
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,sql" height="60" alt="Programming Languages">
+</p>
 
-### Frontend
+`PHP` `JavaScript` `HTML` `CSS` `SQL`
 
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend Technologies">
+---
 
-### Database
+### ⚙️ Backend & Frameworks
 
-<img src="https://skillicons.dev/icons?i=mysql" alt="Database Technologies">
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nextjs" height="60" alt="Backend Technologies">
+</p>
 
-### Tools & Environment
+`Laravel` `Node.js` `Express.js` `Next.js`
 
-<img src="https://skillicons.dev/icons?i=git,github,linux" alt="Development Tools">
+---
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,bootstrap" height="60" alt="Frontend Technologies">
+</p>
+
+`React.js` `Vue.js` `Next.js` `Tailwind CSS` `Bootstrap 5`
+
+---
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" height="60" alt="Database Technologies">
+</p>
+
+`MySQL` `PostgreSQL`
+
+**Database Engineering**
+
+`ERD` `Normalization` `3NF` `Query Optimization` `Relational Database`
+
+---
+
+### 🔌 API & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,git,github,vscode" height="60" alt="Development Tools">
+</p>
+
+`REST API` `Postman` `Git` `GitHub` `VS Code`
+
+---
+
+### 🐧 DevOps & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker" height="60" alt="DevOps Technologies">
+</p>
+
+`Linux` `VPS` `Vercel` `Manual Deployment` `CI/CD Fundamentals`
+
+---
+
+### 🌐 Networking & Security
+
+`MikroTik` `TCP/IP` `Subnetting` `Basic Firewall`
+
+`NIDS/HIDS` `SIEM Fundamentals`
+
+---
+
+### 📊 Additional Technologies
+
+`Chart.js` `Framer Motion` `Vite`
 
 </div>
 
