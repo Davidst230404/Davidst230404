@@ -268,7 +268,7 @@ Explored Android application development using Kotlin as part of expanding softw
 
 My approach to system and database design focuses on structured application architecture, relational data modeling, and clear separation between application logic and data management.
 
-![Database & System Design](./database-system-design.png)
+![Database & System Design](.systemdesign.png)
 
 Areas of focus:
 
@@ -287,7 +287,7 @@ Areas of focus:
 
 I apply functional testing approaches to validate application behavior against expected requirements.
 
-![Software Testing Workflow](./software-testing-workflow.png)
+![Software Testing Workflow](.testing.png)
 
 Testing activities include:
 
@@ -305,7 +305,7 @@ Testing activities include:
 
 The development process is organized around clear requirements, structured design, implementation, validation, version control, deployment, and continuous improvement.
 
-![Development Workflow](./development-workflow.png)
+![Development Workflow](.stackworkflow.png)
 
 ---
 
