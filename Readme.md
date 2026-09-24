@@ -1,6 +1,20 @@
-# David Stanley
+<div align="center">
+
+<img src="./cyberpunk-robot-wallpaper.gif" width="100%" alt="Cyberpunk Robot Background">
+
+# Hi, I'm David Stanley
 
 ### Informatics Engineering Student | Full Stack Web Developer | Software Engineer
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Davidst230404&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+  <a href="https://github.com/Davidst230404?tab=followers">
+    <img src="https://img.shields.io/github/followers/Davidst230404?label=Followers&style=flat&logo=github" alt="GitHub Followers">
+  </a>
+  <img src="https://img.shields.io/badge/Status-Active-2ea043?style=flat" alt="Status Active">
+</p>
+
+</div>
 
 ---
 
