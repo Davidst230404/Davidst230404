@@ -330,13 +330,13 @@ Currently expanding knowledge in:
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Davidst230404&show_icons=true&theme=tokyonight&hide_border=true"
+  src="./stats.svg"
   width="49%"
   alt="GitHub Statistics"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidst230404&layout=compact&theme=tokyonight&hide_border=true"
+  src="./top-langs.svg"
   width="49%"
   alt="Top Languages"
 />
@@ -348,6 +348,8 @@ Currently expanding knowledge in:
   width="70%"
   alt="GitHub Streak"
 />
+
+</div>
 
 </div>
 
