@@ -330,14 +330,14 @@ Currently expanding knowledge in:
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Davidst230404&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=Davidst230404&show_icons=true&theme=tokyonight&hide_border=true"
+  width="49%"
   alt="GitHub Statistics"
 />
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidst230404&layout=compact&theme=tokyonight&hide_border=true"
-  height="180"
+  width="49%"
   alt="Top Languages"
 />
 
