@@ -359,11 +359,7 @@ Currently expanding knowledge in:
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Davidst230404&theme=tokyo-night&hide_border=true"
-  width="95%"
-  alt="GitHub Contribution Graph"
-/>
+<img src="./contribution-activity.svg" width="100%" alt="GitHub Contribution Activity">
 
 </div>
 
