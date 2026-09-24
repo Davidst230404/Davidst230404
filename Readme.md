@@ -92,11 +92,11 @@ Currently Learning  : DevOps, CI/CD, System Architecture
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 <div align="center">
 
-### 🔵 Programming Languages
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,js,html,css,sql" height="60" alt="Programming Languages">
@@ -106,7 +106,7 @@ Currently Learning  : DevOps, CI/CD, System Architecture
 
 ---
 
-### ⚙️ Backend & Frameworks
+### Backend & Frameworks
 
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nextjs" height="60" alt="Backend Technologies">
@@ -116,7 +116,7 @@ Currently Learning  : DevOps, CI/CD, System Architecture
 
 ---
 
-### 🎨 Frontend
+### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,bootstrap" height="60" alt="Frontend Technologies">
@@ -126,7 +126,7 @@ Currently Learning  : DevOps, CI/CD, System Architecture
 
 ---
 
-### 🗄️ Database
+### Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" height="60" alt="Database Technologies">
@@ -140,7 +140,7 @@ Currently Learning  : DevOps, CI/CD, System Architecture
 
 ---
 
-### 🔌 API & Development Tools
+### API & Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=postman,git,github,vscode" height="60" alt="Development Tools">
@@ -150,7 +150,7 @@ Currently Learning  : DevOps, CI/CD, System Architecture
 
 ---
 
-### 🐧 DevOps & Deployment
+### DevOps & Deployment
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,docker" height="60" alt="DevOps Technologies">
@@ -160,7 +160,7 @@ Currently Learning  : DevOps, CI/CD, System Architecture
 
 ---
 
-### 🌐 Networking & Security
+### Networking & Security
 
 `MikroTik` `TCP/IP` `Subnetting` `Basic Firewall`
 
@@ -168,7 +168,7 @@ Currently Learning  : DevOps, CI/CD, System Architecture
 
 ---
 
-### 📊 Additional Technologies
+### Additional Technologies
 
 `Chart.js` `Framer Motion` `Vite`
 
