@@ -3,16 +3,16 @@
 <text x="25" y="34" fill="#58a6ff" font-family="Arial, sans-serif" font-size="20" font-weight="700">Top Languages</text>
 <text x="25" y="62" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="13">Blade</text>
 <rect x="125" y="51" width="250" height="10" rx="5" fill="#21262d"/>
-<rect x="125" y="51" width="220" height="10" rx="5" fill="#58a6ff"/>
-<text x="390" y="62" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">52.5%</text>
+<rect x="125" y="51" width="217" height="10" rx="5" fill="#58a6ff"/>
+<text x="390" y="62" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">51.8%</text>
 <text x="25" y="80" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="13">PHP</text>
 <rect x="125" y="69" width="250" height="10" rx="5" fill="#21262d"/>
-<rect x="125" y="69" width="128" height="10" rx="5" fill="#58a6ff"/>
-<text x="390" y="80" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">30.6%</text>
+<rect x="125" y="69" width="132" height="10" rx="5" fill="#58a6ff"/>
+<text x="390" y="80" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">31.6%</text>
 <text x="25" y="98" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="13">TypeScript</text>
 <rect x="125" y="87" width="250" height="10" rx="5" fill="#21262d"/>
 <rect x="125" y="87" width="22" height="10" rx="5" fill="#58a6ff"/>
-<text x="390" y="98" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">5.5%</text>
+<text x="390" y="98" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">5.4%</text>
 <text x="25" y="116" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="13">CSS</text>
 <rect x="125" y="105" width="250" height="10" rx="5" fill="#21262d"/>
 <rect x="125" y="105" width="19" height="10" rx="5" fill="#58a6ff"/>
@@ -23,6 +23,6 @@
 <text x="390" y="134" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">3.3%</text>
 <text x="25" y="152" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="13">HTML</text>
 <rect x="125" y="141" width="250" height="10" rx="5" fill="#21262d"/>
-<rect x="125" y="141" width="13" height="10" rx="5" fill="#58a6ff"/>
+<rect x="125" y="141" width="12" height="10" rx="5" fill="#58a6ff"/>
 <text x="390" y="152" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">3.1%</text>
 </svg>
