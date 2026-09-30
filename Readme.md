@@ -7,7 +7,10 @@
 ### Informatics Engineering Student | Full Stack Web Developer | Software Engineer
 
 <p>
-  <img src="https://view-counter.tobyhagan.com/?user=Davidst230404&flat=true" alt="Profile Views">
+  <img
+  src="https://img.shields.io/badge/Profile%20Views-3-0e75b6?style=flat"
+  alt="Profile Views"
+>
 
   <a href="https://github.com/Davidst230404?tab=followers">
     <img src="https://img.shields.io/github/followers/Davidst230404?label=Followers&style=flat&logo=github" alt="GitHub Followers">
